@@ -11,7 +11,7 @@ options you want. Run `Run.ps1`.
 ## Links
 
 - [SVGO][1]
-- [SVGO-Add-Viewbox]
+- [SVGO-Add-Viewbox][2]
 
 [1]: https://www.npmjs.com/package/svgo
 [2]: https://www.npmjs.com/package/svgo-add-viewbox
