@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "svgo": "^2.8.0",
+    "svgo-add-viewbox": "^1.0.0"
+  }
+}
